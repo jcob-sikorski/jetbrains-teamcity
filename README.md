@@ -21,7 +21,7 @@ To fulfill the "remote executor" requirement, this service leverages **Kubernete
 
 To run this project locally, you will need the following installed on your machine:
 
-1. **Java 17+** 2. **Docker** (or compatible container runtime)
+1. **Java 25+** 2. **Docker** (or compatible container runtime)
 3. **Minikube** (To run a local single-node Kubernetes cluster)
 4. **kubectl** (Optional, but recommended for observing the cluster)
 
